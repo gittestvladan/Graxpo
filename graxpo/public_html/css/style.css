@@ -80,3 +80,20 @@ h1,h2,h3,h4,h5,h6{
 .navbar-nav{
     background: #fff;
 }
+
+
+/*HELLO*/
+.hello{
+    background-size: cover;
+    background-position: center right;
+}
+.hello article{
+    height: 100vh;
+    display: table-cell;
+    vertical-align: middle;
+    min-width: 1%;
+}
+
+
+
+
